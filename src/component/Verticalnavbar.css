@@ -1,0 +1,96 @@
+.arrowattr
+{
+  margin-left: 150px;
+  width: 100px;
+}
+.arrowattr1
+{
+  margin-left: 138px;
+  width: 100px;
+}
+.arrowattr2
+{
+  margin-left: 155px;
+  width: 100px;
+}
+.arrowattr3
+{
+  margin-left: 150px;
+  width: 100px;
+}
+
+  .logo{
+    height: 17px;
+    width: 17px;
+    display: inline-block; 
+    vertical-align: middle; 
+    margin-right: 5px;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    background-color: #494682;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10%;
+    margin-top: 500px;
+    position: relative;
+    bottom: 40px;
+  }
+  
+  .profileimage {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .groupdetails {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .profilename {
+    font-size: small;
+    font-weight: bold;
+    color:white
+  }
+  
+  .profiledetail {
+    font-size: smaller;
+    color: rgb(247, 246, 246);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .arrow {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 20px;
+    color: gray;
+  }
+  /* @media screen and (max-width: 576px) {
+  .profileimage {
+    width: 30px;
+    height: 30px;
+  }
+
+  .groupdetails {
+    width: 150px;
+    height: 40px;
+  }
+
+  .profilename {
+    font-size: 14px;
+  }
+
+  .profiledetail {
+    font-size: 12px;
+  }
+
+  .arrow {
+    font-size: 16px;
+  }
+} */

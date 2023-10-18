@@ -1,0 +1,127 @@
+.logotable
+{
+    
+    width: 14px;
+    height: 14px;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+.tableimage{
+    height: 40px;
+    width: 80px; 
+    border-radius: 10%;
+}
+.tabled{
+    height: auto;
+    width: 100%;
+    align-items:center;
+}
+
+.col1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    color: black;
+    width:900px;
+
+
+}
+.col2{
+    
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    width: 80px;
+}
+.tableheadrow
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: rgba(101, 164, 164, 0.996);
+    height: 50px;
+    font-weight: 500;
+
+}
+.searchcontainer
+{
+    background-color: rgb(232, 240, 240, 0.775);
+    width: fit-content; 
+    display: flex; 
+    font-size: small;
+}
+.tablerow{
+    height: 50px;
+}
+.header1
+{
+    text-align: start;
+
+}
+.imagecol
+{
+    width: 100px;
+}
+
+.col3
+{
+    width: 80px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.col4
+{
+    width: 80px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.header2{
+
+   text-align: start;
+}
+.header3{
+
+    text-align: start;
+ }
+ .header4{
+
+   text-align: start;
+ }
+ .hr
+ {
+    color: #211313eb; 
+    border: none; 
+    height: 10px; 
+    width: 1000px;
+ }
+ .upperpart
+ {
+    display: flex;
+    place-content: space-between;
+ }
+
+ .productname
+ {
+    width:1180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: large;
+ }
+ .search-bar-table
+ {
+    margin-left: 20px;
+    background-color: rgba(232, 240, 240, 0.775);
+ }
+ .menu
+ {
+    background-color: rgba(232, 240, 240, 0.775);
+    font-size: smaller;
+    font-weight:200;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    color: rgb(62, 92, 92);
+ }
